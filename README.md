@@ -1,6 +1,6 @@
 # Chat App
 
-A web based chat applciation like whatsapp web with all the required features.
+A web based chat applciation like whatsapp web.
 
 **Link:** https://chat-app-g430.onrender.com/
   
